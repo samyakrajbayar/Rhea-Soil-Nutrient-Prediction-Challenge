@@ -12,7 +12,13 @@ rhea-soil-nutrient-prediction-challenge20260210-28069-1fmhbqj/
 __pycache__/
 *.pyc
 
-# ML logs
-catboost_info*/
-catboost_zenith*/
-*.log
+# ML logs and model folders
+# catboost_info folders are included as requested
+!catboost_info*/
+!catboost_zenith*/
+
+# Logs
+# zenith_training.log is the 24hr one, we can include it if the user wants
+# but it might be large. Let's check size first.
+zenith_training.log
+zenith_lite.log
