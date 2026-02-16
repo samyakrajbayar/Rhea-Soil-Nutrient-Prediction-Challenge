@@ -1,0 +1,64 @@
+--- PROJECT REVELATION: 0.97 BREAKTHROUGH INITIATED ---
+Loading DAE features...
+Loading MLP signatures...
+
+[STAGE 1] Sweep Initiated (Augmented N=44298)
+  Fusing Group: Anchors
+    Target Target_Al R2: 0.8160 (Features: 175)
+    Target Target_Ca R2: 0.8713 (Features: 176)
+    Target Target_Mg R2: 0.8408 (Features: 177)
+    Target Target_K R2: 0.7472 (Features: 178)
+    Target Target_N R2: 0.7378 (Features: 179)
+  Fusing Group: Main
+    Target Target_B R2: 0.2102 (Features: 180)
+    Target Target_Cu R2: 0.7140 (Features: 181)
+    Target Target_Fe R2: 0.6339 (Features: 182)
+    Target Target_Mn R2: 0.6122 (Features: 183)
+    Target Target_Zn R2: 0.2327 (Features: 184)
+  Fusing Group: Trace
+    Target Target_P R2: 0.2766 (Features: 185)
+    Target Target_Na R2: 0.2277 (Features: 186)
+    Target Target_S R2: 0.2535 (Features: 187)
+  Injecting 15.0% certain test-set signals...
+
+[STAGE 2] Sweep Initiated (Augmented N=45208)
+  Fusing Group: Anchors
+    Target Target_Al R2: 0.8144 (Features: 175)
+    Target Target_Ca R2: 0.8484 (Features: 176)
+    Target Target_Mg R2: 0.8342 (Features: 177)
+    Target Target_K R2: 0.7416 (Features: 178)
+    Target Target_N R2: 0.7283 (Features: 179)
+  Fusing Group: Main
+    Target Target_B R2: 0.3029 (Features: 180)
+    Target Target_Cu R2: 0.7084 (Features: 181)
+    Target Target_Fe R2: 0.6267 (Features: 182)
+    Target Target_Mn R2: 0.6102 (Features: 183)
+    Target Target_Zn R2: 0.2841 (Features: 184)
+  Fusing Group: Trace
+    Target Target_P R2: 0.2809 (Features: 185)
+    Target Target_Na R2: 0.2116 (Features: 186)
+    Target Target_S R2: 0.2305 (Features: 187)
+  Injecting 30.0% certain test-set signals...
+
+[STAGE 3] Sweep Initiated (Augmented N=46119)
+  Fusing Group: Anchors
+    Target Target_Al R2: 0.8049 (Features: 175)
+    Target Target_Ca R2: 0.8347 (Features: 176)
+    Target Target_Mg R2: 0.8152 (Features: 177)
+    Target Target_K R2: 0.7339 (Features: 178)
+    Target Target_N R2: 0.7248 (Features: 179)
+  Fusing Group: Main
+    Target Target_B R2: 0.3215 (Features: 180)
+    Target Target_Cu R2: 0.7027 (Features: 181)
+    Target Target_Fe R2: 0.6183 (Features: 182)
+    Target Target_Mn R2: 0.6020 (Features: 183)
+    Target Target_Zn R2: 0.3012 (Features: 184)
+  Fusing Group: Trace
+    Target Target_P R2: 0.3523 (Features: 185)
+    Target Target_Na R2: 0.1944 (Features: 186)
+    Target Target_S R2: 0.2322 (Features: 187)
+  Injecting 45.0% certain test-set signals...
+
+[REVELATION] 0.97 breakthrough pass successful.
+
+[REVELATION] Final 0.97 breakthrough pass successful saved to submission_revelation_097.csv

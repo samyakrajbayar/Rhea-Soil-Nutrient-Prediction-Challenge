@@ -1,0 +1,81 @@
+Loading preprocessed data...
+
+--- [0.0%] Training KNN-Enhanced Stack for Target_Al ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_Al Stats -> RMSE: 157.4455, R2: 0.7414
+
+--- [7.7%] Training KNN-Enhanced Stack for Target_B ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_B Stats -> RMSE: 0.0654, R2: 0.1965
+
+--- [15.4%] Training KNN-Enhanced Stack for Target_Ca ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_Ca Stats -> RMSE: 1272.4074, R2: 0.7597
+
+--- [23.1%] Training KNN-Enhanced Stack for Target_Cu ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_Cu Stats -> RMSE: 0.9006, R2: 0.6136
+
+--- [30.8%] Training KNN-Enhanced Stack for Target_Fe ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_Fe Stats -> RMSE: 29.1799, R2: 0.5247
+
+--- [38.5%] Training KNN-Enhanced Stack for Target_Mg ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_Mg Stats -> RMSE: 184.5162, R2: 0.7240
+
+--- [46.2%] Training KNN-Enhanced Stack for Target_Mn ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_Mn Stats -> RMSE: 45.9493, R2: 0.5328
+
+--- [53.8%] Training KNN-Enhanced Stack for Target_N ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_N Stats -> RMSE: 0.4542, R2: 0.6453
+
+--- [61.5%] Training KNN-Enhanced Stack for Target_P ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_P Stats -> RMSE: 3.9904, R2: 0.2894
+
+--- [69.2%] Training KNN-Enhanced Stack for Target_K ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_K Stats -> RMSE: 128.7844, R2: 0.6827
+
+--- [76.9%] Training KNN-Enhanced Stack for Target_Na ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_Na Stats -> RMSE: 17.2786, R2: 0.1742
+
+--- [84.6%] Training KNN-Enhanced Stack for Target_S ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_S Stats -> RMSE: 3.2880, R2: 0.2161
+
+--- [92.3%] Training KNN-Enhanced Stack for Target_Zn ---
+Fold 1 complete.
+Fold 2 complete.
+Fold 3 complete.
+Target Target_Zn Stats -> RMSE: 0.3350, R2: 0.2452
+
+[100.0%] Final Overall -> RMSE: 141.8919, R2: 0.4881

@@ -1,0 +1,72 @@
+Loading Omega data...
+
+--- Training Hierarchical Model for Target_Al ---
+  Fold 1 Blend R2 (Transformed): 0.7970
+  Fold 2 Blend R2 (Transformed): 0.7962
+  Fold 3 Blend R2 (Transformed): 0.8054
+Target Target_Al R2: 0.8150
+
+--- Traini  Fold 5 Blend R2 (Transformed): 0.8057
+  Fold 1 Blend R2 (Transformed): 0.7819
+  Fold 2 Blend R2 (Transformed): 0.7816
+  Fold 3 Blend R2 (Transformed): 0.7874
+  Fold 2 Blend R2 (Transformed): 0.7822
+  Fold 3 Blend R2 (Transformed): 0.7769
+  Fold 4 Blend R2 (Transformed): 0.7945
+  Fold 5 Blend R2 (Transformed): 0.7847
+Target Target_Ca R2: 0.8630
+
+--- Training Hierarchical Model for Target_Mg ---
+  Fold 1 Blend R2 (Transformed): 0.8267
+  Fold 2 Blend R2 (Transformed): 0.8285
+  Fold 3 Blend R2 (Transformed): 0.8314
+  Fold 4 Blend R2 (Transformed): 0.8395
+  Fold 5 Blend R2 (Transformed): 0.8330
+Target Target_Mg R2: 0.8386
+
+--- Training Hierarchical Model for Target_K ---
+  Fold 1 Blend R2 (Transformed): 0.8170
+  Fold 2 Blend R2 (Transformed): 0.8114
+  Fold 3 Blend R2 (Transformed): 0.8048
+  Fold 4 Blend R2 (Transformed): 0.8098
+  Fold 5 Blend R2 (Transformed): 0.8094
+Target Target_K R2: 0.7457
+
+--- Training Hierarchical Model for Target_N ---
+  Fold 1 Blend R2 (Transformed): 0.7294
+  Fold 2 Blend R2 (Transformed): 0.7379
+  Fold 3 Blend R2 (Transformed): 0.7373
+  Fold 4 Blend R2 (Transformed): 0.7308
+  Fold 5 Blend R2 (Transformed): 0.7415
+Target Target_N R2: 0.7421
+
+--- Training Hierarchical Model for Target_Cu ---
+  Fold 1 Blend R2 (Transformed): 0.7088
+  Fold 2 Blend R2 (Transformed): 0.7252
+  Fold 3 Blend R2 (Transformed): 0.7173
+  Fold 4 Blend R2 (Transformed): 0.7232
+  Fold 5 Blend R2 (Transformed): 0.7233
+Target Target_Cu R2: 0.7157
+
+--- Training Hierarchical Model (Omega) for Target_Fe ---
+Target Target_Fe R2: 0.6380
+
+--- Training Hierarchical Model (Omega) for Target_Mn ---
+Target Target_Mn R2: 0.6208
+
+--- Training Hierarchical Model (Omega) for Target_P ---
+Target Target_P R2: 0.2527
+
+--- Training Hierarchical Model (Omega) for Target_B ---
+Target Target_B R2: 0.1866
+
+--- Training Hierarchical Model (Omega) for Target_S ---
+Target Target_S R2: 0.2148
+
+--- Training Hierarchical Model (Omega) for Target_Zn ---
+Target Target_Zn R2: 0.2100
+
+--- Training Hierarchical Model (Omega) for Target_Na ---
+Target Target_Na R2: 0.1661
+
+[Project Omega] Final Mean R2: 0.5393

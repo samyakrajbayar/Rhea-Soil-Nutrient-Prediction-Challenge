@@ -1,0 +1,64 @@
+--- PROJECT ASCENSION: 0.97 BREAKTHROUGH INITIATED ---
+Loading DAE features...
+Loading MLP signatures...
+
+[STAGE 1] Multi-Model Sweep (Training N=44298)
+  Ensembling Group: Anchors
+    Target Target_Al Blend R2: 0.8205
+    Target Target_Ca Blend R2: 0.8735
+    Target Target_Mg Blend R2: 0.8449
+    Target Target_K Blend R2: 0.7513
+    Target Target_N Blend R2: 0.7423
+  Ensembling Group: Main
+    Target Target_Cu Blend R2: 0.7237
+    Target Target_Fe Blend R2: 0.6397
+    Target Target_Mn Blend R2: 0.6210
+    Target Target_P Blend R2: 0.2636
+    Target Target_B Blend R2: 0.2120
+  Ensembling Group: Trace
+    Target Target_S Blend R2: 0.2548
+    Target Target_Zn Blend R2: 0.2389
+    Target Target_Na Blend R2: 0.2132
+  Confidence Gate: Injected 607 high-certainty samples. Total N=44905
+
+[STAGE 2] Multi-Model Sweep (Training N=44905)
+  Ensembling Group: Anchors
+    Target Target_Al Blend R2: 0.8214
+    Target Target_Ca Blend R2: 0.8746
+    Target Target_Mg Blend R2: 0.8473
+    Target Target_K Blend R2: 0.7553
+    Target Target_N Blend R2: 0.7413
+  Ensembling Group: Main
+    Target Target_Cu Blend R2: 0.7276
+    Target Target_Fe Blend R2: 0.6418
+    Target Target_Mn Blend R2: 0.6250
+    Target Target_P Blend R2: 0.3078
+    Target Target_B Blend R2: 0.2706
+  Ensembling Group: Trace
+    Target Target_S Blend R2: 0.2517
+    Target Target_Zn Blend R2: 0.3098
+    Target Target_Na Blend R2: 0.2411
+  Confidence Gate: Injected 607 high-certainty samples. Total N=45281
+
+[STAGE 3] Multi-Model Sweep (Training N=45281)
+  Ensembling Group: Anchors
+    Target Target_Al Blend R2: 0.8224
+    Target Target_Ca Blend R2: 0.8730
+    Target Target_Mg Blend R2: 0.8474
+    Target Target_K Blend R2: 0.7528
+    Target Target_N Blend R2: 0.7415
+  Ensembling Group: Main
+    Target Target_Cu Blend R2: 0.7237
+    Target Target_Fe Blend R2: 0.6431
+    Target Target_Mn Blend R2: 0.6254
+    Target Target_P Blend R2: 0.2893
+    Target Target_B Blend R2: 0.3025
+  Ensembling Group: Trace
+    Target Target_S Blend R2: 0.2652
+    Target Target_Zn Blend R2: 0.3446
+    Target Target_Na Blend R2: 0.2444
+  Confidence Gate: Injected 607 high-certainty samples. Total N=45475
+Injecting 2012 Spatial Mirrors into final submission...
+Reconciling Global Chemical Distributions...
+
+[ASCENSION] 0.97 breakthrough complete. File: submission_ascension_097.csv
