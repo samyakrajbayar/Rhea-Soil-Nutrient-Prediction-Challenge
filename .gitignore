@@ -1,0 +1,18 @@
+# Large raw data
+rhea-soil-nutrient-prediction-challenge20260210-28069-1fmhbqj/
+
+# Large processed data (>100MB)
+*.csv
+!submission*.csv
+!train_omega.csv
+!*features.csv
+!*preds.csv
+
+# Python caches
+__pycache__/
+*.pyc
+
+# ML logs
+catboost_info*/
+catboost_zenith*/
+*.log
